@@ -29,6 +29,8 @@ creator:
 description: 'From the Library of Congress bibliographic record: "A revision of the
   text (first published 1806?) prepared by members of the Taylor family: probably
   Ann, Jane, and Isaac, Jun. Cf. Stewart."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38612#City-Scenesor-a-peep-into-London
 gutenberg_issued: '2012-01-18'
 gutenberg_type: Text
 identifiers:
