@@ -1,0 +1,45 @@
+_repo: City-Scenesor-a-peep-into-London_38612
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Taylor, Isaac
+    birthdate: 1787
+    deathdate: 1865
+    gutenberg_agent_id: '39574'
+    url: http://www.gutenberg.org/2009/agents/39574
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Taylor, Ann
+    aliases:
+    - Gilbert, Ann Taylor
+    - Gilbert, Ann
+    - Taylor, Anna
+    birthdate: 1782
+    deathdate: 1866
+    gutenberg_agent_id: '41942'
+    url: http://www.gutenberg.org/2009/agents/41942
+  - agent_name: Taylor, Jane
+    birthdate: 1783
+    deathdate: 1824
+    gutenberg_agent_id: '41941'
+    url: http://www.gutenberg.org/2009/agents/41941
+description: 'From the Library of Congress bibliographic record: "A revision of the
+  text (first published 1806?) prepared by members of the Taylor family: probably
+  Ann, Jane, and Isaac, Jun. Cf. Stewart."'
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38612'
+  lccn: '81484865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- Guidebooks -- Juvenile literature'
+title: City Scenes; or, a peep into London
+url: http://www.gutenberg.org/ebooks/38612
